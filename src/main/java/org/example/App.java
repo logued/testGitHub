@@ -10,6 +10,7 @@ public class App
     {
         System.out.println( "Testing GitHub change " );
         System.out.println("Added another line.");
-        System.out.println("Added a third line via github wep interface");  
+        System.out.println("Added a third line via github wep interface");
+        System.out.println("and a fourth line");
     }
 }
